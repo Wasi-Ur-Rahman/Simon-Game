@@ -1,6 +1,6 @@
 # Simon-Game
 This is a web version of Simon Game. Developed by JS,HTML,CSS.
-
+Visit: https://653c1ca34c640f152beeb25c--melodic-tiramisu-77eed7.netlify.app/
 The game typically follows these rules:
 
 Start: The game begins with a sequence of colors or sounds that the player must memorize.
