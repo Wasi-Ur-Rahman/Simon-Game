@@ -1,5 +1,5 @@
 # Simon-Game
-This is an web version of Simon Game. Developed by JS,HTML,CSS.
+This is a web version of Simon Game. Developed by JS,HTML,CSS.
 
 The game typically follows these rules:
 
